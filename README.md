@@ -8,4 +8,7 @@ We also got some variables from the World Bank such as population, Gross Domesti
 Totally we had over 147 variables from the years 1970 till 2022.
 
 In addition to these widely available datasets, we also conducted interviews with Africans who have migrated to the US over the years to gain an insiders scoop on what their take was on the situation of food security in Africa. This was also to check if there was any bias in the data, which we did find.
+
 ![FAO_logo_Blue_2lines_en_0](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/8e758369-13c6-4436-ae4b-4a0568e9fbf5)
+
+![kisspng-education-economic-development-international-devel-bank-5ad678d72f0ba7 2599988915240050791927](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/0cc2b342-10d3-436e-b059-67929c489050)
