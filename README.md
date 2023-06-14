@@ -23,4 +23,5 @@ Most of the cleaning, transformations were done using python.
 As you can see below, we had to remove a lot of columns and filter out the type of obeservations we needed.
 
 ![image](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/98db2882-2b4c-4303-96ea-58d22bd23175)
-
+To convert it into this, (wide to long format) (suitable for time series analysis)
+![image](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/0d62ca2a-fc06-4ec3-bf03-bcfbb57f01b6)
