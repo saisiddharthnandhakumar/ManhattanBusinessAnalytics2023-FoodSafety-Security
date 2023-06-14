@@ -19,4 +19,8 @@ Example raw data is in Capital_Stock_2.csv
 ![FAO_logo_Blue_2lines_en_0](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/8e758369-13c6-4436-ae4b-4a0568e9fbf5)
 
 ## Data Cleaning
+Most of the cleaning, transformations were done using python.
+As you can see below, we had to remove a lot of columns and filter out the type of obeservations we needed.
+
+![image](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/98db2882-2b4c-4303-96ea-58d22bd23175)
 
