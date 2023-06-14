@@ -1,7 +1,7 @@
-# Manhattan BusinessAnalytics Competition 2023
+# Manhattan Business Analytics Competition 2023
 This project was done for the Manhattan Business Analytics Competition 2023. The topic was to develop a model to analyze Food Security/Safety in Sub-Saharan Africa and Central America/Caribbean Islands. The team who accomplished this and won the best poster award was me(Saisiddharth Nandhakumar), Emily Richey, Andrew Le, and Naomi Raeford from the College of Business at Nicholls State University.
 
-##Data Collection
+## Data Collection
 The datasets we were suggested was from the FAO (Food and Agricultural Organization) from where we got variables about Food Security which was our dependent variable, agricultural production, trade variables like the import and export of different types of fruits, vegetables, grains etc. 
 We also got some variables from the World Bank such as population, Gross Domestic Product (GDP), labor participation rate, and average precipitation. 
 
