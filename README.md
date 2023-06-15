@@ -26,3 +26,6 @@ As you can see below, we had to remove a lot of columns and filter out the type 
 To convert it into this, (wide to long format) (suitable for time series analysis)
 
 ![image](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/0d62ca2a-fc06-4ec3-bf03-bcfbb57f01b6)
+
+## Data Preparation
+Out of 343,795 cells of data, 233,904 cells were missing. To further elaborate, there was a lot of missing data for many countries and many years as well. This is possibly due to the lack of digital infrastructure in many of the Sub-Saharan countries. 
