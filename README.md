@@ -11,7 +11,7 @@ Tools: Tableau, Microsoft Excel, Microsoft Powerpoint, Jupyter Lab, R Studio
 The datasets we were suggested from the FAO (Food and Agricultural Organization) from where we got variables about Food Security which was our dependent variable, agricultural production, trade variables like the import and export of different types of fruits, vegetables, grains, etc. 
 We also got some variables from the World Bank such as population, Gross Domestic Product (GDP), labor participation rate, and average precipitation. 
 
-Totally we had over 147 variables from the years 1970 to 2022.
+We had over 147 variables from the years 1970 to 2022.
 
 In addition to these widely available datasets, we also conducted interviews with Africans who have migrated to the US over the years to gain an insider's scoop on what their take was on the situation of food security in Africa. This was also to check if there was any bias in the data, which we did find.
 
@@ -34,3 +34,7 @@ Out of 343,795 cells of data, 233,904 cells were missing. To further elaborate, 
 We created many additional calculated columns (feature engineered) like GDP per capita by dividing GDP by the population and dummy coded variables like for if a country was 'coastal' or 'inland'.
 
 [Nicholls State University_Planting the Seeds of Food Security in Sub-Saharan Africa.pdf](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/files/14091023/Nicholls.State.University_Planting.the.Seeds.of.Food.Security.in.Sub-Saharan.Africa.pdf)
+
+## Data Analysis
+![Screenshot 2024-01-29 184820](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/8af1947f-3daa-4766-a858-f2fe7f4aae49)
+
