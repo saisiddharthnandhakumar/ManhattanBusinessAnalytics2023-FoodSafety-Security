@@ -38,9 +38,11 @@ Out of 343,795 cells of data, 233,904 cells were missing. To further elaborate, 
 We created many additional calculated columns (feature engineered) like GDP per capita by dividing GDP by the population and dummy coded variables like for if a country was 'coastal' or 'inland'.
 
 ## Data Analysis
-Using the R language, we created a multiple-regression model to analyze the statistical significance between the key variables and food security among the countries in sub-Saharan Africa. 
+Using the R language, we created a multiple-regression model to analyze the statistical significance between the key variables(as shown below) and food security among the countries in sub-Saharan Africa. 
 ![Screenshot 2024-01-29 184820](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/8af1947f-3daa-4766-a858-f2fe7f4aae49)
 
 We also visualized the relationship between country location and food security with a violin plot.
 ![Screenshot 2024-01-29 202350](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/e3c5f443-468d-4465-8a4e-5a176475de60)
 
+Using Tableau, we visualized most of the other charts like the Hexmap, Line charts, scatterplot, as well as the geographic map.
+![Screenshot 2024-01-29 202922](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/0e269edc-101e-4a9d-8403-8ce31a02e689)
