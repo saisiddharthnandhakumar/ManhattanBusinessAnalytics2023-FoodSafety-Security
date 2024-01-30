@@ -46,3 +46,7 @@ We also visualized the relationship between country location and food security w
 
 Using Tableau, we visualized most of the other charts like the Hexmap, Line charts, scatterplot, as well as the geographic map.
 ![Screenshot 2024-01-29 202922](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/0e269edc-101e-4a9d-8403-8ce31a02e689)
+
+## Recommendations
+To wrap it all up, we made several data-driven recommendations along with researching what plans have already been put into motion by various countries.
+![Screenshot 2024-01-29 203223](https://github.com/saisiddharthnandhakumar/ManhattanBusinessAnalytics2023-FoodSafety-Security/assets/79336332/e15c9620-5f73-414b-8e73-e458e1a3fdc7)
