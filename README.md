@@ -3,7 +3,8 @@ This project was done for the Manhattan Business Analytics Competition 2023. The
 ### Goal: 
 1. Develop or enhance a definition of food safety that would be applicable to a majority of countries in Sub-Saharan Africa.
 2. Given your definition of food safety, develop a model that can be used to analyze food safety in Sub-Saharan Africa.
-3. 3) Answer the following research questions:
+3. Answer the following research questions:
+   
 ● How well does your model fit the data for the last twenty or so years?
 ● What does your model tell us about the future of food safety in this part of Africa?
 ● What are the known deficiencies with your model?
